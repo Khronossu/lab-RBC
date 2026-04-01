@@ -19,6 +19,8 @@ out/
 # Storage (runtime data — not committed)
 storage/images/
 storage/reports/
+backend/storage/images/
+backend/storage/reports/
 
 # OS
 .DS_Store
